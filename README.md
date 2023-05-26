@@ -1,4 +1,4 @@
-# 📈 Uber Data Analytics | 👨🏻‍💻 A end-to-end ETL & GOOGLE Cloud Platform Project
+# 📈 Uber Data Analytics | 👨🏻‍💻 A end-to-end ETL & Google Cloud Platform Project
 
 
 ## Introduction ✨
@@ -40,7 +40,8 @@ More info about dataset can be found here:
 
 
 # Dashboard ✨
-<h2 style="text-align: center"href="https://lookerstudio.google.com/reporting/96ebd5e5-6ec5-491f-b913-30d665146866)" target="_blank">View Dashboard </h2>
+
+[View Dashboard](https://lookerstudio.google.com/reporting/96ebd5e5-6ec5-491f-b913-30d665146866)
 
 
 <img src="https://github.com/00arunkumar/Uber-Data-Pipeline-Project/blob/main/dashboard.png">
